@@ -1,4 +1,4 @@
-export const name = 'Slovakia Republic';
+export const name = 'Slovak Republic';
 
 export const codes = ['SK', 'SVK', '703'];
 

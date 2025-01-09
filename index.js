@@ -27,7 +27,7 @@ export { portugal } from './lib/es6/lib/countries/portugal';
 export { romania } from './lib/es6/lib/countries/romania';
 export { russia } from './lib/es6/lib/countries/russia';
 export { serbia } from './lib/es6/lib/countries/serbia';
-export { slovakiaRepublic } from './lib/es6/lib/countries/slovakiaRepublic';
+export { slovakRepublic } from './lib/es6/lib/countries/slovakRepublic';
 export { slovenia } from './lib/es6/lib/countries/slovenia';
 export { spain } from './lib/es6/lib/countries/spain';
 export { sweden } from './lib/es6/lib/countries/sweden';

@@ -1,7 +1,7 @@
 import { Country } from '../jsvat';
 
-export const slovakiaRepublic: Country = {
-  name: 'Slovakia Republic',
+export const slovakRepublic: Country = {
+  name: 'Slovak Republic',
   codes: ['SK', 'SVK', '703'],
   calcFn: (vat: string): boolean => {
     const expect = 0;

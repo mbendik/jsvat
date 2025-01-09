@@ -118,7 +118,7 @@ export interface VatCheckResult {
 - Russia Federation
 - Serbia
 - Slovenia
-- Slovakia republic
+- Slovak republic
 - Sweden
 
 ## How to import all countries at once?
